@@ -1,0 +1,5 @@
+Name,Unit,Expression,Value,Comments,Favorite
+Bunnplate_Bredde,mm,170 mm,170.00,,false
+Bunnplate_lengde,mm,112 mm,112.00,,false
+offset1,mm,4 mm,4.00,,false
+offset2,mm,offset1 + 4 mm,8.00,,false
