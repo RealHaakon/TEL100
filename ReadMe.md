@@ -1,5 +1,4 @@
 Dette er en prosjektoppgave laget av Håkon Bekken og Brage Bromset
-Stay Tuned
 
 
 ![Bilde av Pomodoro uten lokk](\Bilder\Design\Klokke_Uten_lokk.jpg)
