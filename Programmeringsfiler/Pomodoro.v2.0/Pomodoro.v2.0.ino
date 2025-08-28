@@ -162,6 +162,7 @@ void Pomodoro(int wt, int sbt, int lbt,int nsb,int nlb){
       while(true){
         int but1Val = digitalRead(but1);
         if(but1Val == 1){
+          delay(150);
           break;
         }
       }
@@ -174,6 +175,7 @@ void Pomodoro(int wt, int sbt, int lbt,int nsb,int nlb){
       while(true){
         int but1Val = digitalRead(but1);
         if(but1Val == 1){
+          delay(150);
           break;
         }
       }
@@ -188,6 +190,7 @@ void Pomodoro(int wt, int sbt, int lbt,int nsb,int nlb){
       while(true){
         int but1Val = digitalRead(but1);
         if(but1Val == 1){
+          delay(150);
           break;
         }
       }
@@ -202,6 +205,7 @@ void Pomodoro(int wt, int sbt, int lbt,int nsb,int nlb){
       while(true){
         int but1Val = digitalRead(but1);
         if(but1Val == 1){
+          delay(150);
           break;
         }
       }
@@ -214,6 +218,7 @@ void Pomodoro(int wt, int sbt, int lbt,int nsb,int nlb){
       while(true){
         int but1Val = digitalRead(but1);
         if(but1Val == 1){
+          delay(150);
           break;
         }
       }
