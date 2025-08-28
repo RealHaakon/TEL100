@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="328.1087"
+   height="1247.4427"
+   viewBox="0 0 9.2923988e-07 0"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Flowchart.svg"
+   inkscape:export-filename="Flowchart.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.28"
+     inkscape:cx="1557.8125"
+     inkscape:cy="-690.23438"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-32000"
+     inkscape:window-y="-32000"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="328.1087"
+       height="1247.4427"
+       id="page4"
+       margin="606.20215 0 0"
+       bleed="0" />
+    <inkscape:grid
+       id="grid4"
+       units="mm"
+       originx="706.39848"
+       originy="1201.2982"
+       spacingx="3.7795276"
+       spacingy="3.7795276"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="1636.8648"
+       y="-801.96539"
+       width="11.025451"
+       height="21.074013"
+       id="rect35" />
+    <rect
+       x="1300.1501"
+       y="-304.56917"
+       width="260.68501"
+       height="136.30576"
+       id="rect28" />
+    <rect
+       x="-760.48586"
+       y="221.38382"
+       width="518.72361"
+       height="980.94339"
+       id="rect5" />
+    <rect
+       x="34.127548"
+       y="649.34583"
+       width="127.28654"
+       height="80.245857"
+       id="rect24" />
+    <rect
+       x="-264.24249"
+       y="671.4826"
+       width="497.60114"
+       height="335.7413"
+       id="rect13" />
+    <rect
+       x="287.77826"
+       y="668.71552"
+       width="145.91524"
+       height="75.634033"
+       id="rect9" />
+    <rect
+       x="519.29218"
+       y="359.72281"
+       width="74.711662"
+       height="181.70615"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="Klokke"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-272.68304,683.5738)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1558.2518"
+       y="-1667.8943"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         x="1558.2518"
+         y="-1667.8943">Meny</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1933.6238"
+       y="-1549.5244"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         x="1933.6238"
+         y="-1549.5244">Presets</tspan><tspan
+         sodipodi:role="line"
+         x="1933.6238"
+         y="-1529.5244"
+         id="tspan21" /></text>
+    <text
+       xml:space="preserve"
+       transform="translate(272.68304,-683.5738)"
+       id="text28"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect28);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       transform="translate(272.68304,-683.5738)"
+       id="text35"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect35);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1912.7644"
+       y="-1505.6857"
+       id="text37"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         x="1912.7644"
+         y="-1505.6857">Valg av Preset</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Pomodoro">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1270.1782"
+       y="-865.9527"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="1270.1782"
+         y="-865.9527">Pomodoro</tspan><tspan
+         sodipodi:role="line"
+         x="1270.1782"
+         y="-845.9527"
+         id="tspan19" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1251.5767"
+       y="-822.11383"
+       id="text22-6"><tspan
+         sodipodi:role="line"
+         id="tspan22-1"
+         x="1251.5767"
+         y="-822.11383">Valg tid og </tspan><tspan
+         sodipodi:role="line"
+         x="1251.5767"
+         y="-802.11383"
+         id="tspan35">antall intervaller</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1277.4595"
+       y="-751.9549"
+       id="text25-4-0-5"
+       inkscape:label="Start klokke"
+       transform="scale(0.99178308,1.008285)"><tspan
+         sodipodi:role="line"
+         id="tspan25-6-8-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+         x="1277.4595"
+         y="-751.9549">Start klokke</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1238.7837"
+       y="-714.34479"
+       id="text29-1"><tspan
+         sodipodi:role="line"
+         id="tspan29-5"
+         x="1238.7837"
+         y="-714.34479">Lys slukker basert</tspan><tspan
+         sodipodi:role="line"
+         x="1238.7837"
+         y="-694.34479"
+         id="tspan31-9">på hvor mye tid som</tspan><tspan
+         sodipodi:role="line"
+         x="1238.7837"
+         y="-674.34479"
+         id="tspan32-6">er igjen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1251.6899"
+       y="-627.4826"
+       id="text33-8"><tspan
+         sodipodi:role="line"
+         id="tspan33-2"
+         x="1251.6899"
+         y="-627.4826">Buzzer piper når</tspan><tspan
+         sodipodi:role="line"
+         x="1251.6899"
+         y="-607.4826"
+         id="tspan34-8">tid er ferdig</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1660.9709"
+       y="-769.10767"
+       id="text25-4-0-5-0"
+       inkscape:label="Start klokke"
+       transform="scale(0.99178308,1.008285)"><tspan
+         sodipodi:role="line"
+         id="tspan25-6-8-4-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+         x="1660.9709"
+         y="-769.10767">Start klokke</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1619.1438"
+       y="-731.63965"
+       id="text29-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan29-5-0"
+         x="1619.1438"
+         y="-731.63965">Lys slukker basert</tspan><tspan
+         sodipodi:role="line"
+         x="1619.1438"
+         y="-711.63965"
+         id="tspan31-9-0">på hvor mye tid som</tspan><tspan
+         sodipodi:role="line"
+         x="1619.1438"
+         y="-691.63965"
+         id="tspan32-6-7">er igjen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1632.05"
+       y="-644.77747"
+       id="text33-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan33-2-9"
+         x="1632.05"
+         y="-644.77747">Buzzer piper når</tspan><tspan
+         sodipodi:role="line"
+         x="1632.05"
+         y="-624.77747"
+         id="tspan34-8-5">tid er ferdig</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Vanlig klokke"
+     style="display:inline"
+     transform="translate(-125.04944,1.3671875)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1118.5024"
+       y="-868.65582"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="1118.5024"
+         y="-868.65582">Vanlig klokke</tspan><tspan
+         sodipodi:role="line"
+         x="1118.5024"
+         y="-848.65582"
+         id="tspan15" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1132.9946"
+       y="-822.79645"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="1132.9946"
+         y="-822.79645">Valg tid</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1128.1624"
+       y="-770.46362"
+       id="text25-4-0"
+       inkscape:label="Start klokke"
+       transform="scale(0.99178308,1.008285)"><tspan
+         sodipodi:role="line"
+         id="tspan25-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+         x="1128.1624"
+         y="-770.46362">Start klokke</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1090.7134"
+       y="-733.68945"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         x="1090.7134"
+         y="-733.68945">Lys slukker basert</tspan><tspan
+         sodipodi:role="line"
+         x="1090.7134"
+         y="-713.68945"
+         id="tspan31">på hvor mye tid som</tspan><tspan
+         sodipodi:role="line"
+         x="1090.7134"
+         y="-693.68945"
+         id="tspan32">er igjen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="1103.6196"
+       y="-647.50977"
+       id="text33"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         x="1103.6196"
+         y="-647.50977">Buzzer piper når</tspan><tspan
+         sodipodi:role="line"
+         x="1103.6196"
+         y="-627.50977"
+         id="tspan34">tid er ferdig</tspan></text>
+  </g>
+</svg>

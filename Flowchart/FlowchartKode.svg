@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="169.78703mm"
+   height="99.867661mm"
+   viewBox="0 0 169.78703 99.867661"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="FlowchartKode.svg"
+   inkscape:export-filename="FlowchartKode.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="6.1329806"
+     inkscape:cx="198.92448"
+     inkscape:cy="75.738051"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g13"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-06"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-67" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-0-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-2-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-0-8-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-2-5-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-0-8-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-2-5-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-0-8-4-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-2-5-7-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-03"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-0-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-2-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-06-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-67-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-0-8-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-2-5-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-0-8-4-45"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-2-5-7-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-0-8-4-4-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-2-5-7-1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-0-8-1-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-2-5-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-03-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-3-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-09"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-07" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-09-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-0-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-09-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-0-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-4-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-6-5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5139.5005,11654.403)">
+    <g
+       id="g4"
+       transform="translate(1.633574,-26.686156)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#090909;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5194.2964"
+         y="-11606.185"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="stroke-width:0"
+           x="5194.2964"
+           y="-11606.185">State1</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0"
+           x="5194.2964"
+           y="-11600.893"
+           id="tspan4" /></text>
+      <rect
+         style="fill:#090909;fill-opacity:0;stroke:#000000;stroke-width:0.171153;stroke-dasharray:none"
+         id="rect4"
+         width="11.517945"
+         height="3.6362767"
+         x="5193.9585"
+         y="-11609.34" />
+    </g>
+    <g
+       id="g5"
+       transform="translate(-35.64274,50.849342)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#090909;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5206.5845"
+         y="-11665.769"
+         id="text3-8"><tspan
+           sodipodi:role="line"
+           id="tspan3-9"
+           style="stroke-width:0"
+           x="5206.5845"
+           y="-11665.769">State2</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0"
+           x="5206.5845"
+           y="-11660.477"
+           id="tspan4-2" /></text>
+      <rect
+         style="fill:#090909;fill-opacity:0;stroke:#000000;stroke-width:0.171153;stroke-dasharray:none"
+         id="rect4-5"
+         width="11.517945"
+         height="3.6362767"
+         x="5206.2432"
+         y="-11668.924" />
+    </g>
+    <g
+       id="g4-4"
+       transform="translate(24.208742,-8.7348922)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#090909;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5194.2964"
+         y="-11606.185"
+         id="text3-6"><tspan
+           sodipodi:role="line"
+           id="tspan3-97"
+           style="stroke-width:0"
+           x="5194.2964"
+           y="-11606.185">State3</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0"
+           x="5194.2964"
+           y="-11600.893"
+           id="tspan4-9" /></text>
+      <rect
+         style="fill:#090909;fill-opacity:0;stroke:#000000;stroke-width:0.171153;stroke-dasharray:none"
+         id="rect4-9"
+         width="11.517945"
+         height="3.6362767"
+         x="5193.9585"
+         y="-11609.34" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="11000.465"
+       y="-6452.6665"
+       id="text8"
+       transform="rotate(-35.484958)"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="11000.465"
+         y="-6452.6665">Knapp1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="11000.465"
+         y="-6449.1387"
+         id="tspan10" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="11000.465"
+         y="-6445.6108"
+         id="tspan9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="10936.506"
+       y="-6456.8857"
+       id="text8-4"
+       transform="rotate(-35.484958)"><tspan
+         sodipodi:role="line"
+         id="tspan8-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="10936.506"
+         y="-6456.8857">Knapp1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="10936.506"
+         y="-6453.3579"
+         id="tspan10-2" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="10936.506"
+         y="-6449.8301"
+         id="tspan9-3" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="11111.136"
+       y="-6203.6758"
+       id="text11"
+       transform="rotate(-36.800032)"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="11111.136"
+         y="-6203.6758">Knapp2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="5362.9614"
+       y="-11542.593"
+       id="text11-8"
+       transform="rotate(-0.81905993)"><tspan
+         sodipodi:role="line"
+         id="tspan11-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="5362.9614"
+         y="-11542.593">Knapp2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="-2038.5896"
+       y="-12574.519"
+       id="text11-8-3"
+       transform="rotate(33.344135)"><tspan
+         sodipodi:role="line"
+         id="tspan11-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-2038.5896"
+         y="-12574.519">Knapp2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="-1211.719"
+       y="-12684.78"
+       id="text12"
+       transform="rotate(29.594406)"
+       inkscape:transform-center-x="-0.084486103"
+       inkscape:transform-center-y="-0.1559646"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1211.719"
+         y="-12684.78">Knapp3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="5333.6919"
+       y="-11550.135"
+       id="text12-9"
+       transform="rotate(-0.67623616)"
+       inkscape:transform-center-x="0.013455443"
+       inkscape:transform-center-y="0.03080567"><tspan
+         sodipodi:role="line"
+         id="tspan12-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="5333.6919"
+         y="-11550.135">Knapp3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="10707.462"
+       y="-6874.8594"
+       id="text12-6"
+       transform="rotate(-33.2514)"
+       inkscape:transform-center-x="0.10403891"
+       inkscape:transform-center-y="-0.15339808"><tspan
+         sodipodi:role="line"
+         id="tspan12-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="10707.462"
+         y="-6874.8594">Knapp3</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide)"
+       d="m 5194.0567,-11636.744 -17.6417,-11.802 z"
+       id="path13" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-8)"
+       d="m 5250.9472,-11637.273 -17.6417,-11.802 z"
+       id="path13-2" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-09)"
+       d="m 5181.2247,-11581.54 -17.6417,-11.802 z"
+       id="path13-6" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-09-6)"
+       d="m 5246.2087,-11560.586 -17.6417,-11.802 z"
+       id="path13-6-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-09-5)"
+       d="m 5295.7773,-11561.306 -17.6417,-11.802 z"
+       id="path13-6-1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-03)"
+       d="m 5152.4655,-11601.964 17.6417,-11.802 z"
+       id="path13-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-4)"
+       d="m 5225.6463,-11648.338 -17.6417,11.802 z"
+       id="path13-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-4-8)"
+       d="m 5272.9626,-11609.345 -17.6417,11.802 z"
+       id="path13-5-4" />
+    <g
+       id="g14"
+       transform="translate(6.7761472,-0.13193712)">
+      <g
+         id="g13">
+        <rect
+           style="fill:#000000;fill-opacity:0.0501618;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+           id="rect13"
+           width="10.634273"
+           height="4.378818"
+           x="5164.2661"
+           y="-11654.171" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#090909;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+           x="5164.5811"
+           y="-11650.764"
+           id="text1"
+           transform="translate(3.8216667e-5,8.9203331e-5)"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0;stroke-dasharray:none"
+             x="5164.5811"
+             y="-11650.764">Menu</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0;stroke-dasharray:none"
+             x="5164.5811"
+             y="-11645.472"
+             id="tspan2" /></text>
+      </g>
+    </g>
+    <g
+       id="g15"
+       transform="translate(-5.808541e-5,0.25712156)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5219.4854"
+         y="-11650.693"
+         id="text13"><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+           x="5219.4854"
+           y="-11650.693">ClockM</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0.0501618;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+         id="rect14"
+         width="14.322834"
+         height="4.5788178"
+         x="5218.644"
+         y="-11654.403" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-0)"
+       d="m 5176.7707,-11619.355 17.6417,-11.802 z"
+       id="path13-8" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-06)"
+       d="m 5223.4288,-11619.435 -17.6417,-11.802 z"
+       id="path13-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-0-8)"
+       d="m 5195.9176,-11630.332 -17.6417,11.802 z"
+       id="path13-8-6" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-0-8-4)"
+       d="m 5210.6599,-11616.714 -21.2252,0.08 z"
+       id="path13-8-6-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-0-8-4-4)"
+       d="m 5189.6257,-11615.117 21.2252,0.08 z"
+       id="path13-8-6-3-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-0-8-1)"
+       d="m 5204.291,-11631.029 17.6417,11.802 z"
+       id="path13-8-6-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="11127.855"
+       y="-6142.0718"
+       id="text11-9"
+       transform="rotate(-36.800032)"><tspan
+         sodipodi:role="line"
+         id="tspan11-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="11127.855"
+         y="-6142.0718">Knapp2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="5412.6855"
+       y="-11502.565"
+       id="text11-8-2"
+       transform="rotate(-0.81905993)"><tspan
+         sodipodi:role="line"
+         id="tspan11-7-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="5412.6855"
+         y="-11502.565">Knapp2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="-1974.9685"
+       y="-12569.32"
+       id="text11-8-3-3"
+       transform="rotate(33.344135)"><tspan
+         sodipodi:role="line"
+         id="tspan11-7-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1974.9685"
+         y="-12569.32">Knapp2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="-1148.5742"
+       y="-12675.434"
+       id="text12-96"
+       transform="rotate(29.594406)"
+       inkscape:transform-center-x="-0.084486103"
+       inkscape:transform-center-y="-0.1559646"><tspan
+         sodipodi:role="line"
+         id="tspan12-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1148.5742"
+         y="-12675.434">Knapp3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="5383.5156"
+       y="-11510.231"
+       id="text12-9-2"
+       transform="rotate(-0.67623616)"
+       inkscape:transform-center-x="0.013455443"
+       inkscape:transform-center-y="0.03080567"><tspan
+         sodipodi:role="line"
+         id="tspan12-9-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="5383.5156"
+         y="-11510.231">Knapp3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="10727.964"
+       y="-6814.4087"
+       id="text12-6-9"
+       transform="rotate(-33.2514)"
+       inkscape:transform-center-x="0.10403891"
+       inkscape:transform-center-y="-0.15339808"><tspan
+         sodipodi:role="line"
+         id="tspan12-4-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="10727.964"
+         y="-6814.4087">Knapp3</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-0-3)"
+       d="m 5227.0618,-11580.043 17.6417,-11.802 z"
+       id="path13-8-8" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-06-8)"
+       d="m 5273.7199,-11580.123 -17.6417,-11.802 z"
+       id="path13-3-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-0-8-0)"
+       d="m 5246.2087,-11591.02 -17.6417,11.802 z"
+       id="path13-8-6-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-0-8-4-45)"
+       d="m 5260.951,-11577.402 -21.2252,0.08 z"
+       id="path13-8-6-3-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-0-8-4-4-1)"
+       d="m 5239.9168,-11575.805 21.2252,0.08 z"
+       id="path13-8-6-3-3-8" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-0-8-1-1)"
+       d="m 5254.5821,-11591.717 17.6417,11.802 z"
+       id="path13-8-6-8-0" />
+    <g
+       id="g16"
+       transform="translate(-21.780814,-4.8198439)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5161.9917"
+         y="-11591.42"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="5161.9917"
+           y="-11591.42">PomodoroM</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+         id="rect16"
+         width="23.123047"
+         height="4.8808546"
+         x="5161.3813"
+         y="-11595.08" />
+    </g>
+    <g
+       id="g19"
+       transform="translate(-17.476534,23.866416)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5243.0205"
+         y="-11599"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="5243.0205"
+           y="-11599">Pr2</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.14358;stroke-dasharray:none"
+         id="rect17"
+         width="6.4503794"
+         height="4.1707931"
+         x="5242.7627"
+         y="-11602.426" />
+    </g>
+    <g
+       id="g18"
+       transform="translate(21.77779,34.998523)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5249.1338"
+         y="-11610.388"
+         id="text17-2"><tspan
+           sodipodi:role="line"
+           id="tspan17-5"
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="5249.1338"
+           y="-11610.388">Pr3</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.14358;stroke-dasharray:none"
+         id="rect17-8"
+         width="6.4503794"
+         height="4.1707931"
+         x="5248.876"
+         y="-11613.813" />
+    </g>
+    <g
+       id="g17"
+       transform="translate(2.3014588,25.011161)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5245.165"
+         y="-11618.59"
+         id="text17-4"><tspan
+           sodipodi:role="line"
+           id="tspan17-7"
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="5245.165"
+           y="-11618.59">Pr1</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.14358;stroke-dasharray:none"
+         id="rect17-9"
+         width="6.4503794"
+         height="4.1707931"
+         x="5244.9072"
+         y="-11622.016" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;marker-start:url(#ArrowWide-03-8)"
+       d="m 5248.9914,-11600.931 -17.6417,-11.802 z"
+       id="path13-9-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="-1430.993"
+       y="-12656.048"
+       id="text8-7"
+       transform="rotate(30.734312)"><tspan
+         sodipodi:role="line"
+         id="tspan8-76"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1430.993"
+         y="-12656.048">Knapp1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1430.993"
+         y="-12652.521"
+         id="tspan10-8" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1430.993"
+         y="-12648.992"
+         id="tspan9-4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="-1412.1531"
+       y="-12619.562"
+       id="text8-7-7"
+       transform="rotate(30.734312)"><tspan
+         sodipodi:role="line"
+         id="tspan8-76-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1412.1531"
+         y="-12619.562">Knapp1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1412.1531"
+         y="-12616.034"
+         id="tspan10-8-9" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1412.1531"
+         y="-12612.506"
+         id="tspan9-4-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="-1370.6624"
+       y="-12645.525"
+       id="text8-7-1"
+       transform="rotate(30.734312)"><tspan
+         sodipodi:role="line"
+         id="tspan8-76-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1370.6624"
+         y="-12645.525">Knapp1</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1370.6624"
+         y="-12641.998"
+         id="tspan10-8-2" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="-1370.6624"
+         y="-12638.47"
+         id="tspan9-4-0" /></text>
+    <g
+       id="g7"
+       transform="translate(31.701158,4.5085845)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5143.1865"
+         y="-11579.577"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="5143.1865"
+           y="-11579.577">Pomodoro</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+         id="rect7"
+         width="18.455507"
+         height="3.7659745"
+         x="5143.0664"
+         y="-11582.876" />
+    </g>
+    <g
+       id="g7-0"
+       transform="translate(96.856342,24.13147)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5143.1865"
+         y="-11579.577"
+         id="text5-4"><tspan
+           sodipodi:role="line"
+           id="tspan5-3"
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="5143.1865"
+           y="-11579.577">Pomodoro</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+         id="rect7-0"
+         width="18.455507"
+         height="3.7659745"
+         x="5143.0664"
+         y="-11582.876" />
+    </g>
+    <g
+       id="g7-2"
+       transform="translate(147.66566,24.474824)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5143.1865"
+         y="-11579.577"
+         id="text5-1"><tspan
+           sodipodi:role="line"
+           id="tspan5-2"
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="5143.1865"
+           y="-11579.577">Pomodoro</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+         id="rect7-2"
+         width="18.455507"
+         height="3.7659745"
+         x="5143.0664"
+         y="-11582.876" />
+    </g>
+    <g
+       id="g7-7"
+       transform="translate(122.68207,-32.017258)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5143.1865"
+         y="-11579.577"
+         id="text5-17"><tspan
+           sodipodi:role="line"
+           id="tspan5-6"
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="5143.1865"
+           y="-11579.577">Pomodoro</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+         id="rect7-9"
+         width="18.455507"
+         height="3.7659745"
+         x="5143.0664"
+         y="-11582.876" />
+    </g>
+    <g
+       id="g8">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="5252.2617"
+         y="-11633.469"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="5252.2617"
+           y="-11633.469">Clock</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
+         id="rect8"
+         width="10.2803"
+         height="4.5147905"
+         x="5251.7695"
+         y="-11637.146" />
+    </g>
+    <g
+       id="g1"
+       transform="rotate(-67.645821,5255.1701,-11620.836)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="-1430.993"
+         y="-12656.048"
+         id="text8-7-9"
+         transform="rotate(30.734312)"><tspan
+           sodipodi:role="line"
+           id="tspan8-76-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="-1430.993"
+           y="-12656.048">Knapp1</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="-1430.993"
+           y="-12652.521"
+           id="tspan10-8-6" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+           x="-1430.993"
+           y="-12648.992"
+           id="tspan9-4-9" /></text>
+    </g>
+  </g>
+</svg>
