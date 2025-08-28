@@ -136,7 +136,7 @@ void Clock(int time){
       }
       delay(1);
       pc += 1;
-      if(pc >= 1000){
+      if(pc >= 945){
         break;
       }
     }
