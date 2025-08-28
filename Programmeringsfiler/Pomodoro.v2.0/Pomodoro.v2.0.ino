@@ -2,17 +2,17 @@
 #include <LiquidCrystal_I2C.h>
 #include <string.h>
 //Definerer lysdioder
-int lR = 5;
-int lY1 = 4;
+int lR = 7;
+int lY1 = 6;
 int lY2 = 3;
-int lG1 = 2;
-int lG2 = 13;
+int lG1 = 4;
+int lG2 = 8;
 
 //Definerer knapper og buzzer
-int but1 = 12;
-int but2 = 11;
-int but3 = 9;
-int buz = 7;
+int but1 = 5;
+int but2 =  12;
+int but3 = 10;
+int buz = 9;
 
 // Definerer LCD-skjerm
 LiquidCrystal_I2C lcd(0x27,16,2);
@@ -29,9 +29,9 @@ int nsb = 3; //Number of short breaks
 int nlb = 2; //Number of long breaks
 
 int pomt[3][2] = {{minwt, sekwt},{minsbt, seksbt},{minlbt,seklbt}}; //Samler i array
-String pomtM[3][2] = {{"   Min arbeid:  ", "   Sek arbeid:  "},{"    Min kort:   ","    Sek kort:   "},{"    Min lang:   ","    Sek lang:   "}}; //Tekst til display
+String pomtM[3][2] = {{"   Min arbeid:  ", "   Sek arbeid:  "},{" Min kort pause:"," Sek kort pause:"},{" Min lang pause:"," Sek lang pause:"}}; //Tekst til display
 int pomn[2] = {nsb,nlb};
-String pomnM[2] = {"  Antall kort:  ","  Antall lang:  "};
+String pomnM[2] = {"Antall kort:","  Antall lang:  "};
 String ms[2] = {"Min: ", "Sek:"};
 
 
@@ -57,6 +57,7 @@ void setup() {
 }
 
 void loop() {
+  lcd.clear();
   Menu();
 
 }
@@ -75,16 +76,16 @@ void Clock(int time){
     lcd.print(tim[1]);
 
     if(time2 <= time*4/5){
-      digitalWrite(lR,LOW);
+      digitalWrite(lG2,LOW);
     }
     else{
-      digitalWrite(lR,HIGH);
+      digitalWrite(lG2,HIGH);
     }
     if(time2 <= time*3/5){
-      digitalWrite(lY1,LOW);
+      digitalWrite(lG1,LOW);
     }
     else{
-      digitalWrite(lY1,HIGH);
+      digitalWrite(lG1,HIGH);
     }
     if(time2 <= time*2/5){
       digitalWrite(lY2,LOW);
@@ -93,16 +94,16 @@ void Clock(int time){
       digitalWrite(lY2,HIGH);
     }
     if(time2 <= time/5){
-      digitalWrite(lG1,LOW);
+      digitalWrite(lY1,LOW);
     }
     else{
-      digitalWrite(lG1,HIGH);
+      digitalWrite(lY1,HIGH);
     }
     if(time2 == 0){
-      digitalWrite(lG2, LOW);
+      digitalWrite(lR, LOW);
     }
     else{
-      digitalWrite(lG2,HIGH);
+      digitalWrite(lR,HIGH);
     }
     time2 -= 1;
     tim[1] -= 1;
@@ -110,8 +111,31 @@ void Clock(int time){
       tim[0] -= 1;
       tim[1] += 60;
     } 
+    int pc = 0;
+    while(true){
+      int but1Val =digitalRead(but1);
+      if(but1Val == 1){
+        delay(150);
+        lcd.clear();
+        lcd.setCursor(5,0);
+        lcd.print("Pause");
+        lcd.setCursor(0,1);
+        lcd.print("Enter for forts.");
+        while(true){
+          int but1Val = digitalRead(but1);
+          if(but1Val == 1){
+            delay(150);
+            break;
+          }
+        }
+      }
+      delay(1);
+      pc += 1;
+      if(pc >= 1000){
+        break;
+      }
+    }
 
-    delay(1000);
   }
   for(int i=0; i <= 50; i++){
     digitalWrite(buz,HIGH);
@@ -125,14 +149,69 @@ void Pomodoro(int wt, int sbt, int lbt,int nsb,int nlb){
   for(int i=0; i < nlb; i++){
     for(int i=0; i< nsb; i++){
       Clock(wt);
+      lcd.clear();
+      lcd.setCursor(0,0);
+      lcd.print("Trykk Enter for");
+      lcd.setCursor(0,1);
+      lcd.print("  aa fortsette  ");
+      while(true){
+        int but1Val = digitalRead(but1);
+        if(but1Val == 1){
+          break;
+        }
+      }
       Clock(sbt);
+      lcd.clear();
+      lcd.setCursor(0,0);
+      lcd.print("Trykk Enter for");
+      lcd.setCursor(0,1);
+      lcd.print("  aa fortsette  ");
+      while(true){
+        int but1Val = digitalRead(but1);
+        if(but1Val == 1){
+          break;
+        }
+      }
     }
     if(i == nlb-1){
       Clock(wt);
+      lcd.clear();
+      lcd.setCursor(0,0);
+      lcd.print("Trykk Enter for");
+      lcd.setCursor(0,1);
+      lcd.print("  aa fortsette  ");
+      while(true){
+        int but1Val = digitalRead(but1);
+        if(but1Val == 1){
+          break;
+        }
+      }
     }
     else{
       Clock(wt);
+      lcd.clear();
+      lcd.setCursor(0,0);
+      lcd.print("Trykk Enter for");
+      lcd.setCursor(0,1);
+      lcd.print("  aa fortsette  ");
+      while(true){
+        int but1Val = digitalRead(but1);
+        if(but1Val == 1){
+          break;
+        }
+      }
       Clock(lbt);
+      lcd.clear();
+      lcd.setCursor(0,0);
+      lcd.print("Trykk Enter for");
+      lcd.setCursor(0,1);
+      lcd.print("  aa fortsette  ");
+      while(true){
+        int but1Val = digitalRead(but1);
+        if(but1Val == 1){
+          break;
+        }
+      }
     }
   }
 }
@@ -158,7 +237,12 @@ void ClockM(){
       }
       else if(but2Val == 1){
         delay(150);
-        pomt[0][i] += 1;
+        if(pomt[0][i] >= 59){
+          pomt[0][i] = 0;
+        }
+        else{
+          pomt[0][i] += 1;
+        } 
         lcd.clear();
         lcd.setCursor(0,0);
         lcd.print(pomtM[0][i]);
@@ -168,7 +252,12 @@ void ClockM(){
       }
       else if(but3Val == 1){
         delay(150);
-        pomt[0][i] -= 1;
+        if(pomt[0][i] <= 0){
+          pomt[0][i] = 59;
+        }
+        else{
+          pomt[0][i] -= 1;
+        } 
         lcd.clear();
         lcd.setCursor(0,0);
         lcd.print(pomtM[0][i]);
@@ -201,7 +290,12 @@ void PomodoroM(){
         }
         else if(but2Val == 1){
           delay(150);
-          pomt[i][n] += 1;
+          if(pomt[i][n] >= 59){
+            pomt[i][n] = 0;
+          }
+          else{
+            pomt[i][n] += 1;
+          }
           lcd.clear();
           lcd.setCursor(0,0);
           lcd.print(pomtM[i][n]);
@@ -211,7 +305,12 @@ void PomodoroM(){
         }
         else if(but3Val == 1){
           delay(150);
-          pomt[i][n] -= 1;
+          if(pomt[i][n] <= 0){
+            pomt[i][n] = 59;
+          }
+          else{
+            pomt[i][n] -= 1;
+          } 
           lcd.clear();
           lcd.setCursor(0,0);
           lcd.print(pomtM[i][n]);
@@ -281,7 +380,6 @@ void State1(){
     int but1Val = digitalRead(but1);
     int but2Val = digitalRead(but2);
     int but3Val = digitalRead(but3);
-    
     lcd.setCursor(1, 0);
     lcd.write(0);
     lcd.print("Vanlig timer");
@@ -368,7 +466,7 @@ void Pr1(){
   lcd.setCursor(3, 0);
   lcd.write(0);
   lcd.print("25 - 5");
-  lcd.setCursor(1,1);
+  lcd.setCursor(3,1);
   lcd.print("45 - 15");
   
   while(true){
@@ -396,7 +494,7 @@ void Pr2(){
   lcd.setCursor(3, 0);
   lcd.write(0);
   lcd.print("45 - 15");
-  lcd.setCursor(1,1);
+  lcd.setCursor(3,1);
   lcd.print("40 - 10");
   
   while(true){
@@ -424,7 +522,7 @@ void Pr3(){
   lcd.setCursor(3, 0);
   lcd.write(0);
   lcd.print("40 - 10");
-  lcd.setCursor(1,1);
+  lcd.setCursor(3,1);
   lcd.print("25 - 5");
   
   while(true){
@@ -434,7 +532,7 @@ void Pr3(){
 
     if(but1Val ==  1){
       delay(150);
-      Pomodoro(25*60, 5*60, 15*60, 4, 1);
+      Pomodoro(40*60, 10*60, 20*60, 4, 1);
     }
     else if(but2Val == 1){
       delay(150);
