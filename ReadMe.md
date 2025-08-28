@@ -1,11 +1,21 @@
 **Introduksjon**
 
-_TEL 100 prosjektoppgave av Håkon og Brage_
+_En TEL100 prosjektoppgave av to pomodoroentusiaster_
 
 I en tid hvor digitale enheter som mobiltelefoner og datamaskiner er en integrert del av hverdagen, utgjør de også en betydelig utfordring for konsentrasjon og læring, særlig i skolen. Å skape motivasjon for å redusere distraksjoner handler ikke bare om å begrense distraksjoner, men også om å fremme en dypere forståelse av verdien av tilstedeværelse, selvkontroll og målrettet læring. Dette prosjektet ønsker å utvikle et produkt for strategien «pomodoro» for å engasjere studenter, og vise fordelene ved et distraksjonsfritt miljø.
 
-**DEMO av klokke**
+**DEMO**
+
 ![Pomodoro ferdig produkt](https://github.com/RealHaakon/TEL100/blob/TEL100/Bilder/Design/pomodoro.gif)
+
+**Hvordan fungerer pomodoro?**
+
+Pomodoro-studieteknikken er en tidsstyringsmetode utviklet av Francesco Cirillo som går ut på å jobbe i fokuserte økter på 25 minutter, kalt "pomodoros", etterfulgt av en kort pause på 5 minutter. Etter fire pomodoros tar man en lengre pause på 15-30 minutter. Det er også mulig å bestemme hvilke intervalltyper som passer best for en selv. Teknikken hjelper med å opprettholde konsentrasjon og redusere utmattelse ved å bryte arbeidet inn i håndterbare intervaller.
+
+**Bilde av program flowchart**
+
+
+En dypere gjennomgang av koden er tilgjengelig i TEL100 digital tomato prosjektrapport
 
 **Komponentliste**
 | Komponent       | Type         | Kvantitet |
@@ -18,7 +28,6 @@ I en tid hvor digitale enheter som mobiltelefoner og datamaskiner er en integrer
 | Buzzer | Passive     | 1    |
 | Kabler | -     | 39    |
 | Breadboard | 55mm X 160mm     | 1    |
-
 
 **Bunnplate og topplate er tilgjengelig i design-folderen**
 ![Bilde av Pomodoro med lokk](https://github.com/RealHaakon/TEL100/blob/TEL100/Bilder/Design/Klokke_Med_lokk.jpg?raw=true)
