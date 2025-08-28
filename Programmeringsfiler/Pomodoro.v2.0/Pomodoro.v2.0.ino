@@ -1,6 +1,7 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <string.h>
+
 //Definerer lysdioder
 int lR = 7;
 int lY1 = 6;
@@ -19,20 +20,24 @@ LiquidCrystal_I2C lcd(0x27,16,2);
 uint8_t arrow[8] = { B00000, B00000, B00010, B11111, B00010, B00000, B00000, B00000 }; //pil-symbol
 
 //Definerer andre variabler
-int minwt = 1; //Work-time
+//Work-time
+int minwt = 1; 
 int sekwt = 5;
-int minsbt = 0; //Short-break-time
+//Short-break-time
+int minsbt = 0; 
 int seksbt = 30;
-int minlbt = 2; //Long-break-time
+//Long-break-time
+int minlbt = 2; 
 int seklbt = 15;
+
 int nsb = 3; //Number of short breaks
 int nlb = 2; //Number of long breaks
 
-int pomt[3][2] = {{minwt, sekwt},{minsbt, seksbt},{minlbt,seklbt}}; //Samler i array
+int pomt[3][2] = {{minwt, sekwt},{minsbt, seksbt},{minlbt,seklbt}}; //Samler tidsvariabler i array
 String pomtM[3][2] = {{"   Min arbeid:  ", "   Sek arbeid:  "},{" Min kort pause:"," Sek kort pause:"},{" Min lang pause:"," Sek lang pause:"}}; //Tekst til display
-int pomn[2] = {nsb,nlb};
-String pomnM[2] = {"Antall kort:","  Antall lang:  "};
-String ms[2] = {"Min: ", "Sek:"};
+int pomn[2] = {nsb,nlb}; //Samler nummervariabler i array
+String pomnM[2] = {"Antall kort:","  Antall lang:  "}; //Tekst til display
+String ms[2] = {"Min: ", "Sek:"}; //Tekst til display
 
 
 void setup() {
@@ -137,11 +142,11 @@ void Clock(int time){
     }
 
   }
-  for(int i=0; i <= 50; i++){
+  for(int i=0; i <= 1500; i++){
     digitalWrite(buz,HIGH);
-    delay(50);
+    delay(1);
     digitalWrite(buz,LOW);
-    delay(50);
+    delay(1);
   }
 }
 
@@ -459,7 +464,6 @@ void State3(){
     }
   }
 }
-
 
 void Pr1(){
   lcd.clear();
