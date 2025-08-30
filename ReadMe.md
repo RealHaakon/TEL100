@@ -13,9 +13,9 @@ I en tid hvor digitale enheter som mobiltelefoner og datamaskiner er en integrer
 Pomodoro-studieteknikken er en tidsstyringsmetode utviklet av Francesco Cirillo som går ut på å jobbe i fokuserte økter på 25 minutter, kalt "pomodoros", etterfulgt av en kort pause på 5 minutter. Etter fire pomodoros tar man en lengre pause på 15-30 minutter. Det er også mulig å bestemme hvilke intervalltyper som passer best for en selv. Teknikken hjelper med å opprettholde konsentrasjon og redusere utmattelse ved å bryte arbeidet inn i håndterbare intervaller.
 
 **Bilde av program flowchart**
+![Program flowchart](https://github.com/RealHaakon/TEL100/blob/TEL100/Flowchart/Flowchart.png?raw=true)
 
-
-En dypere gjennomgang av koden er tilgjengelig i TEL100 digital tomato prosjektrapport
+En grundigere gjennomgang av koden er tilgjengelig i TEL100 digital tomato prosjektrapport.
 
 **Komponentliste**
 | Komponent       | Type         | Kvantitet |
