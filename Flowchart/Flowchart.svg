@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1178.0787"
+   height="1009.3995"
+   viewBox="0 0 9.2923988e-07 0"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Flowchart.svg"
+   inkscape:export-filename="Flowchart.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.28"
+     inkscape:cx="336.71875"
+     inkscape:cy="662.10938"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="3829"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     showguides="false">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1178.0787"
+       height="1009.3995"
+       id="page4"
+       margin="606.20215 0 0"
+       bleed="0" />
+    <inkscape:grid
+       id="grid4"
+       units="mm"
+       originx="-4179.4544"
+       originy="3414.7095"
+       spacingx="3.7795276"
+       spacingy="3.7795276"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="1636.8647"
+       y="-801.96539"
+       width="11.025451"
+       height="21.074013"
+       id="rect35" />
+    <rect
+       x="1300.1501"
+       y="-304.56918"
+       width="260.685"
+       height="136.30576"
+       id="rect28" />
+    <rect
+       x="-760.48584"
+       y="221.38382"
+       width="518.72363"
+       height="980.94342"
+       id="rect5" />
+    <rect
+       x="34.127548"
+       y="649.34583"
+       width="127.28654"
+       height="80.245857"
+       id="rect24" />
+    <rect
+       x="-264.24249"
+       y="671.4826"
+       width="497.60114"
+       height="335.7413"
+       id="rect13" />
+    <rect
+       x="287.77826"
+       y="668.71552"
+       width="145.91524"
+       height="75.634033"
+       id="rect9" />
+    <rect
+       x="519.29218"
+       y="359.72281"
+       width="74.711662"
+       height="181.70615"
+       id="rect4" />
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-36" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Presets"
+     transform="translate(-4885.8529,2213.4112)" />
+  <g
+     inkscape:label="Klokke"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5158.5359,2896.985)"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Pomodoro"
+     transform="translate(-4885.8529,2213.4112)">
+    <g
+       id="g29"
+       transform="translate(3892,-587.2022)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="2049.9351"
+         y="-1593.1986"
+         id="text20"
+         transform="translate(-272.68304,683.5738)"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           x="2049.9351"
+           y="-1593.1986">Presets</tspan><tspan
+           sodipodi:role="line"
+           x="2049.9351"
+           y="-1573.1986"
+           id="tspan21" /></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect11"
+         width="49.718445"
+         height="13.948786"
+         x="1776.6748"
+         y="-920.96515" />
+    </g>
+    <g
+       id="g31"
+       transform="translate(3892,-587.2022)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1546.399"
+         y="-769.45844"
+         id="text25-4-0-5-0"
+         inkscape:label="Start klokke"
+         transform="scale(0.99178308,1.008285)"><tspan
+           sodipodi:role="line"
+           id="tspan25-6-8-4-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+           x="1546.399"
+           y="-769.45844">Start klokke</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect12"
+         width="82.617188"
+         height="19.140625"
+         x="1528.9062"
+         y="-789.0625" />
+    </g>
+    <g
+       id="g32"
+       transform="translate(3890.4118,-586.94717)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1505.5133"
+         y="-731.99335"
+         id="text29-1-8"><tspan
+           sodipodi:role="line"
+           id="tspan29-5-0"
+           x="1505.5133"
+           y="-731.99335">Lys slukker basert</tspan><tspan
+           sodipodi:role="line"
+           x="1505.5133"
+           y="-711.99335"
+           id="tspan31-9-0">på hvor mye tid som</tspan><tspan
+           sodipodi:role="line"
+           x="1505.5133"
+           y="-691.99335"
+           id="tspan32-6-7">er igjen</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect14"
+         width="139.84375"
+         height="63.28125"
+         x="1501.1719"
+         y="-748.04688" />
+    </g>
+    <g
+       id="g33"
+       transform="translate(3892,-587.2022)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1518.4196"
+         y="-645.13116"
+         id="text33-8-2"><tspan
+           sodipodi:role="line"
+           id="tspan33-2-9"
+           x="1518.4196"
+           y="-645.13116">Buzzer piper når</tspan><tspan
+           sodipodi:role="line"
+           x="1518.4196"
+           y="-625.13116"
+           id="tspan34-8-5">tid er ferdig</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect15"
+         width="114.25781"
+         height="43.75"
+         x="1513.4766"
+         y="-661.13281" />
+    </g>
+    <g
+       id="g27"
+       transform="translate(3895.5562,-589.41191)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1778.246"
+         y="-772.75165"
+         id="text25-4-0-5-0-8"
+         inkscape:label="Start klokke"
+         transform="scale(0.99178308,1.008285)"><tspan
+           sodipodi:role="line"
+           id="tspan25-6-8-4-5-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+           x="1778.246"
+           y="-772.75165">Start klokke</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect16"
+         width="82.617188"
+         height="18.945312"
+         x="1758.9844"
+         y="-792.77344" />
+    </g>
+    <g
+       id="g26"
+       transform="translate(3895.5562,-589.41191)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1735.4553"
+         y="-735.31384"
+         id="text29-1-8-2"><tspan
+           sodipodi:role="line"
+           id="tspan29-5-0-1"
+           x="1735.4553"
+           y="-735.31384">Lys slukker basert</tspan><tspan
+           sodipodi:role="line"
+           x="1735.4553"
+           y="-715.31384"
+           id="tspan31-9-0-3">på hvor mye tid som</tspan><tspan
+           sodipodi:role="line"
+           x="1735.4553"
+           y="-695.31384"
+           id="tspan32-6-7-9">er igjen</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect17"
+         width="138.08594"
+         height="59.179688"
+         x="1731.4453"
+         y="-750" />
+    </g>
+    <g
+       id="g25"
+       transform="translate(3895.5562,-589.41191)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1748.3616"
+         y="-648.45166"
+         id="text33-8-2-9"><tspan
+           sodipodi:role="line"
+           id="tspan33-2-9-5"
+           x="1748.3616"
+           y="-648.45166">Buzzer piper når</tspan><tspan
+           sodipodi:role="line"
+           x="1748.3616"
+           y="-628.45166"
+           id="tspan34-8-5-0">tid er ferdig</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect18"
+         width="110.15625"
+         height="39.231163"
+         x="1746.0938"
+         y="-661.51074" />
+    </g>
+    <g
+       id="g23"
+       transform="translate(3892,-587.2022)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="2010.0931"
+         y="-766.6861"
+         id="text25-4-0-5-0-2"
+         inkscape:label="Start klokke"
+         transform="scale(0.99178308,1.008285)"><tspan
+           sodipodi:role="line"
+           id="tspan25-6-8-4-5-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+           x="2010.0931"
+           y="-766.6861">Start klokke</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect19"
+         width="83.59375"
+         height="20.898438"
+         x="1988.2812"
+         y="-788.08594" />
+    </g>
+    <g
+       id="g22"
+       transform="translate(3892,-587.2022)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1965.3975"
+         y="-729.19806"
+         id="text29-1-8-0"><tspan
+           sodipodi:role="line"
+           id="tspan29-5-0-2"
+           x="1965.3975"
+           y="-729.19806">Lys slukker basert</tspan><tspan
+           sodipodi:role="line"
+           x="1965.3975"
+           y="-709.19806"
+           id="tspan31-9-0-8">på hvor mye tid som</tspan><tspan
+           sodipodi:role="line"
+           x="1965.3975"
+           y="-689.19806"
+           id="tspan32-6-7-99">er igjen</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect20"
+         width="140.42969"
+         height="58.984375"
+         x="1961.9141"
+         y="-742.96875" />
+    </g>
+    <g
+       id="g21"
+       transform="translate(3892,-587.2022)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1978.3037"
+         y="-642.33588"
+         id="text33-8-2-2"><tspan
+           sodipodi:role="line"
+           id="tspan33-2-9-54"
+           x="1978.3037"
+           y="-642.33588">Buzzer piper når</tspan><tspan
+           sodipodi:role="line"
+           x="1978.3037"
+           y="-622.33588"
+           id="tspan34-8-5-1">tid er ferdig</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect21"
+         width="108.78906"
+         height="38.671875"
+         x="1976.3672"
+         y="-655.85938" />
+    </g>
+    <g
+       id="g24"
+       style="display:inline"
+       transform="translate(3619.317,96.3716)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';display:inline;fill:#000000;stroke:#000000;stroke-width:0"
+         x="2281.7014"
+         y="-1518.1174"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="2281.7014"
+           y="-1518.1174">40 - 10</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.72503;stroke-dasharray:none"
+         id="rect10"
+         width="47.614372"
+         height="16.727409"
+         x="2280.0896"
+         y="-1531.5358" />
+    </g>
+    <g
+       id="g28"
+       style="display:inline"
+       transform="translate(3622.8732,94.16189)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';display:inline;fill:#000000;stroke:#000000;stroke-width:0"
+         x="2047.8903"
+         y="-1518.2346"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="2047.8903"
+           y="-1518.2346">45 - 15</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect8"
+         width="47.163471"
+         height="14.915534"
+         x="2047.0791"
+         y="-1530.3065" />
+    </g>
+    <g
+       id="g30"
+       style="display:inline"
+       transform="translate(3619.317,96.3716)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';display:inline;fill:#000000;stroke:#000000;stroke-width:0"
+         x="1829.4229"
+         y="-1518.1956"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="1829.4229"
+           y="-1518.1956">25-5</tspan><tspan
+           sodipodi:role="line"
+           x="1829.4229"
+           y="-1498.1956"
+           id="tspan2" /></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect7"
+         width="31.833616"
+         height="12.912985"
+         x="1827.9727"
+         y="-1529.6851" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5693.5341,-1494.2186 v 58.074 l -1e-4,-32.9424 -230.2043,-1.2207 -0.1233,36.9942 0.1233,-36.9942 459.884,2.2461 v 32.8974 0 0"
+       id="path68" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5462.2148,-1357.1241 -0.7093,22.13"
+       id="path69" />
+    <g
+       id="g6"
+       style="display:inline"
+       transform="translate(3619.317,96.3716)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1558.2518"
+         y="-1691.3318"
+         id="text7"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           x="1558.2518"
+           y="-1691.3318">Meny</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect6"
+         width="38.964844"
+         height="15.429688"
+         x="1558.0345"
+         y="-1703.2028" />
+    </g>
+    <g
+       id="g50"
+       style="display:inline"
+       transform="translate(3766.9506,-585.83501)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1270.1782"
+         y="-914.38263"
+         id="text17"
+         transform="translate(125.04944,-1.3671875)"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           x="1270.1782"
+           y="-914.38263">Pomodoro</tspan><tspan
+           sodipodi:role="line"
+           x="1270.1782"
+           y="-894.38263"
+           id="tspan19" /></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect42"
+         width="75.544418"
+         height="18.50631"
+         x="1391.3506"
+         y="-929.44482" />
+    </g>
+    <g
+       id="g46"
+       style="display:inline"
+       transform="translate(3770.058,-578.73966)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1248.9639"
+         y="-847.10883"
+         id="text22-6"
+         transform="translate(125.04944,-1.3671875)"><tspan
+           sodipodi:role="line"
+           id="tspan22-1"
+           x="1248.9639"
+           y="-847.10883">Valg tid og </tspan><tspan
+           sodipodi:role="line"
+           x="1248.9639"
+           y="-827.10883"
+           id="tspan35">antall intervaller</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.71919;stroke-dasharray:none"
+         id="rect43"
+         width="116.32263"
+         height="40.689308"
+         x="1367.854"
+         y="-864.18787" />
+    </g>
+    <g
+       id="g47"
+       style="display:inline"
+       transform="translate(3766.9506,-585.83501)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1274.825"
+         y="-776.74451"
+         id="text25-4-0-5"
+         inkscape:label="Start klokke"
+         transform="matrix(0.99178308,0,0,1.008285,125.04944,-1.3671875)"><tspan
+           sodipodi:role="line"
+           id="tspan25-6-8-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+           x="1274.825"
+           y="-776.74451">Start klokke</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.774687;stroke-dasharray:none"
+         id="rect44"
+         width="80.359367"
+         height="16.830292"
+         x="1385.9739"
+         y="-797.12915" />
+    </g>
+    <g
+       id="g48"
+       style="display:inline"
+       transform="translate(3764.0503,-585.83503)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1236.1709"
+         y="-739.33978"
+         id="text29-1"
+         transform="translate(125.04944,-1.3671875)"><tspan
+           sodipodi:role="line"
+           id="tspan29-5"
+           x="1236.1709"
+           y="-739.33978">Lys slukker basert</tspan><tspan
+           sodipodi:role="line"
+           x="1236.1709"
+           y="-719.33978"
+           id="tspan31-9">på hvor mye tid som</tspan><tspan
+           sodipodi:role="line"
+           x="1236.1709"
+           y="-699.33978"
+           id="tspan32-6">er igjen</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect45"
+         width="135.89708"
+         height="57.590534"
+         x="1359.448"
+         y="-753.91113" />
+    </g>
+    <g
+       id="g49"
+       style="display:inline"
+       transform="translate(3766.9506,-585.83501)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1249.0771"
+         y="-652.4776"
+         id="text33-8"
+         transform="translate(125.04944,-1.3671875)"><tspan
+           sodipodi:role="line"
+           id="tspan33-2"
+           x="1249.0771"
+           y="-652.4776">Buzzer piper når</tspan><tspan
+           sodipodi:role="line"
+           x="1249.0771"
+           y="-632.4776"
+           id="tspan34-8">tid er ferdig</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect46"
+         width="112.97136"
+         height="36.736408"
+         x="1371.187"
+         y="-666.35138" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5196.8339,-1591.4015 -0.7605,76.1217 v 0 l 0.5266,-40.1891 -241.8697,0.1381 -0.2747,38.8001 0.2747,-38.5239 241.8697,-0.5524 h 496.6715 l 0.2626,47.4396 v 0 0"
+       id="path50" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5196.0734,-1496.7735 v 53.846"
+       id="path55" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5193.1041,-1382.9642 v -18.9144"
+       id="path56" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5193.1041,-1366.1338 1.243,26.3876"
+       id="path57" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5194.3471,-1282.1556 0.2761,29.9692"
+       id="path58" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5463.2064,-1420.4005 -0.9916,44.1358 v 0 0 0"
+       id="path59" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5463.0938,-1271.9678 -0.4883,23.6328"
+       id="path61" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5695.8492,-1363.24 0.1953,23.8281"
+       id="path62" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5696.0445,-1280.2322 0.6836,29.3095"
+       id="path63" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5923.2137,-1418.4367 -1.1356,43.1486"
+       id="path67" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5693.5341,-1421.2291 -1e-4,38.6658 2.3152,0.378"
+       id="path70" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5922.0781,-1354.3897 v 23.8408"
+       id="path71" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+       d="m 5924.1289,-1271.1866 v 28.3692"
+       id="path74" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none;marker-start:url(#Triangle)"
+       d="m 5506.838,-1367.049 c 102.1218,25.2518 110.952,71.2352 16.211,140.2343 v 0 0"
+       id="path75"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="3644.4084"
+       y="-4400.3647"
+       id="text75"
+       transform="rotate(36.587897)"><tspan
+         sodipodi:role="line"
+         id="tspan75"
+         x="3644.4084"
+         y="-4400.3647">gjenta n ganger</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none;marker-start:url(#Triangle-7)"
+       d="m 5738.9964,-1366.6944 c 102.1218,25.2519 110.952,71.2352 16.211,140.2344 v 0 0"
+       id="path75-7"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="3831.0298"
+       y="-4538.4595"
+       id="text75-8"
+       transform="rotate(36.587897)"><tspan
+         sodipodi:role="line"
+         id="tspan75-4"
+         x="3831.0298"
+         y="-4538.4595">gjenta n ganger</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none;marker-start:url(#Triangle-2)"
+       d="m 5965.1058,-1364.2537 c 102.1218,25.2518 110.952,71.2352 16.211,140.2343 v 0 0"
+       id="path75-6"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="4014.0376"
+       y="-4671.2734"
+       id="text75-89"
+       transform="rotate(36.587897)"><tspan
+         sodipodi:role="line"
+         id="tspan75-7"
+         x="4014.0376"
+         y="-4671.2734">gjenta n ganger</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none;marker-start:url(#Triangle-0)"
+       d="m 5244.9934,-1372.655 c 102.1218,25.2518 110.952,71.2352 16.211,140.2343 v 0 0"
+       id="path75-69"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+       x="3430.8206"
+       y="-4248.7925"
+       id="text75-7"
+       transform="rotate(36.587897)"><tspan
+         sodipodi:role="line"
+         id="tspan75-3"
+         x="3430.8206"
+         y="-4248.7925">gjenta n ganger</tspan></text>
+    <g
+       id="g38"
+       style="display:inline"
+       transform="translate(3766.9506,-585.835)">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.740012;stroke-dasharray:none"
+         id="rect33"
+         width="88.404243"
+         height="19.188745"
+         x="1018.2535"
+         y="-929.32855"
+         transform="translate(125.04944,-1.3671875)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1145.9673"
+         y="-917.08575"
+         id="text12"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           x="1145.9673"
+           y="-917.08575">Vanlig klokke</tspan><tspan
+           sodipodi:role="line"
+           x="1145.9673"
+           y="-897.08575"
+           id="tspan15" /></text>
+    </g>
+    <g
+       id="g39"
+       transform="translate(3766.4135,-585.45362)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1164.7817"
+         y="-824.51831"
+         id="text22"><tspan
+           sodipodi:role="line"
+           id="tspan22"
+           x="1164.7817"
+           y="-824.51831">Valg tid</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect34"
+         width="51.651939"
+         height="16.434708"
+         x="1162.491"
+         y="-836.75128" />
+      <path
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         d="m 1188.0421,-911.8884 0.2749,75.13712"
+         id="path51" />
+      <path
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         d="m 1188.317,-820.31659 -0.2058,30.11636 v 0 0"
+         id="path52" />
+      <path
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         d="m 1188.1112,-773.21311 -0.2072,26.2403"
+         id="path53" />
+      <path
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         d="m 1187.904,-689.7966 0.2762,29.41674"
+         id="path54" />
+    </g>
+    <g
+       id="g40"
+       style="display:inline"
+       transform="translate(3766.9506,-585.835)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1159.6713"
+         y="-770.13739"
+         id="text25-4-0"
+         inkscape:label="Start klokke"
+         transform="scale(0.99178308,1.008285)"><tspan
+           sodipodi:role="line"
+           id="tspan25-6-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+           x="1159.6713"
+           y="-770.13739">Start klokke</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect36"
+         width="80.792473"
+         height="16.987135"
+         x="1147.1779"
+         y="-789.81885" />
+    </g>
+    <g
+       id="g41"
+       style="display:inline"
+       transform="translate(3766.9506,-585.835)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1121.9634"
+         y="-733.36053"
+         id="text29"><tspan
+           sodipodi:role="line"
+           id="tspan29"
+           x="1121.9634"
+           y="-733.36053">Lys slukker basert</tspan><tspan
+           sodipodi:role="line"
+           x="1121.9634"
+           y="-713.36053"
+           id="tspan31">på hvor mye tid som</tspan><tspan
+           sodipodi:role="line"
+           x="1121.9634"
+           y="-693.36053"
+           id="tspan32">er igjen</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect37"
+         width="136.17329"
+         height="57.176212"
+         x="1119.2803"
+         y="-746.59143" />
+    </g>
+    <g
+       id="g42"
+       style="display:inline"
+       transform="translate(3766.9506,-585.835)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none"
+         x="1134.8696"
+         y="-647.18085"
+         id="text33"><tspan
+           sodipodi:role="line"
+           id="tspan33"
+           x="1134.8696"
+           y="-647.18085">Buzzer piper når</tspan><tspan
+           sodipodi:role="line"
+           x="1134.8696"
+           y="-627.18085"
+           id="tspan34">tid er ferdig</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.755906;stroke-dasharray:none"
+         id="rect38"
+         width="113.8"
+         height="37.426941"
+         x="1130.7432"
+         y="-659.99847" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Vanlig klokke"
+     style="display:inline"
+     transform="translate(-5010.9023,2214.7784)" />
+</svg>
