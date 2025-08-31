@@ -80,6 +80,7 @@ void Clock(int time){
     lcd.print(" Sek: ");
     lcd.print(tim[1]);
 
+    //Skru av/på LED-dioder basert på hvor mye tid som er igjen
     if(time2 <= time*4/5){
       digitalWrite(lG2,LOW);
     }
@@ -116,6 +117,7 @@ void Clock(int time){
       tim[0] -= 1;
       tim[1] += 60;
     } 
+    // løkke for pause undre nedtelling
     int pc = 0;
     while(true){
       int but1Val =digitalRead(but1);
@@ -142,6 +144,8 @@ void Clock(int time){
     }
 
   }
+
+  // Buzzer ved nedtellingens slutt
   for(int i=0; i <= 1500; i++){
     digitalWrite(buz,HIGH);
     delay(1);
@@ -469,6 +473,7 @@ void State3(){
     }
   }
 }
+
 
 void Pr1(){
   lcd.clear();
